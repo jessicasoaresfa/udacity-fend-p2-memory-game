@@ -4,14 +4,14 @@ Memory Game project for Udacity's  Front-End Web Developer Nanodegree program.
 
 ## Table of contents
  - [Game Logic](#game-logic)
-	 - deck of cards
-	 - timer
-	 - move counter
-	 - rating
-	 - shuffle cards
+	 - deck of cards(#deck-of-cards-set-deck-cards-and-number-of-pairs)
+	 - timer(#timer-when-the-player-starts-a-game-a-timer-starts)
+	 - move counter(#move-counter)
+	 - rating (#rating-the-game-displays-a-star-rating-that-reflects-the-players-performance)
+	 - shuffle cards (#shuffle-cards-a-new-deck-is-set-when-a-new-game-begins)
  - [Gameplay](#gameplay)
-	 - start game
-	 - end game
+	 - start game (#start-game-starts-the-clock-and-displays-the-time-when-a-card-is-clicked)
+	 - end game (#end-game-the-game-is-over-when-all-matched-cards-are-shown)
 
 ### GAME LOGIC
 
@@ -27,7 +27,8 @@ Memory Game project for Udacity's  Front-End Web Developer Nanodegree program.
 - timer is set to zero when the board is refreshed
 
 
-#### MOVE COUNTER: the game displays the current number of moves a user has made.
+#### MOVE COUNTER
+- the game displays the current number of moves a user has made
 
 #### RATING: the game displays a star rating that reflects the player's performance.
 - at the beginning of a game it displays 5 stars.
