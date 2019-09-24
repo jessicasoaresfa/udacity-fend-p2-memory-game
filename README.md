@@ -4,8 +4,8 @@ Memory Game project for Udacity's  Front-End Web Developer Nanodegree program.
 
 ## Table of contents
  - [Game Logic](#game-logic)
-	 - deck of cards(#deck-of-cards-set-deck-cards-and-number-of-pairs)
-	 - timer(#timer-when-the-player-starts-a-game-a-timer-starts)
+	 - deck of cards(##deck-of-cards-set-deck-cards-and-number-of-pairs)
+	 - timer(##timer-when-the-player-starts-a-game-a-timer-starts)
 	 - move counter(#move-counter)
 	 - rating (#rating-the-game-displays-a-star-rating-that-reflects-the-players-performance)
 	 - shuffle cards (#shuffle-cards-a-new-deck-is-set-when-a-new-game-begins)
